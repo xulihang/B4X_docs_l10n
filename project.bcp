@@ -1,0 +1,97 @@
+{
+    "settings": {
+        "termList": [],
+        "quickfill": [
+            "——",
+            "¥",
+            "©",
+            "®",
+            "™",
+            "『",
+            "』",
+            "",
+            "",
+            ""
+        ],
+        "tmList": [],
+        "matchrate": 0.5,
+        "remove_space": false,
+        "disabled_filters": [
+            "idml (BasicCAT)"
+        ],
+        "server_address": "http:\/\/127.0.0.1:51042",
+        "sharingTM_enabled": false,
+        "tmListChanged": "notchanged",
+        "autocorrect": [
+            [
+                "",
+                ""
+            ],
+            [
+                "",
+                ""
+            ],
+            [
+                "",
+                ""
+            ],
+            [
+                "",
+                ""
+            ],
+            [
+                "",
+                ""
+            ],
+            [
+                "",
+                ""
+            ],
+            [
+                "",
+                ""
+            ],
+            [
+                "",
+                ""
+            ],
+            [
+                "",
+                ""
+            ],
+            [
+                "",
+                ""
+            ],
+            [
+                "",
+                ""
+            ]
+        ],
+        "git_enabled": false,
+        "sentence_level_segmentation": true,
+        "save_and_commit": false,
+        "autocorrect_enabled": false,
+        "sharingTerm_enabled": false,
+        "tikal_codeattrs": false,
+        "TM_limit": 500,
+        "record_history": true,
+        "quickfill_includeterm": false,
+        "use_okapi_first": false,
+        "termListChanged": "notchanged",
+        "termMatch_algorithm": "iteration",
+        "updateWorkFile_enabled": false
+    },
+    "lastEntry": 49,
+    "files": [
+        "B4XGettingStartedV1_9.docx.xlf",
+        "B4XBasicLanguageV1_9.docx.xlf"
+    ],
+    "source": "en",
+    "okapiExtractedFiles": [
+        "B4XGettingStartedV1_9.docx.xlf",
+        "B4XBasicLanguageV1_9.docx.xlf"
+    ],
+    "lastFile": "B4XGettingStartedV1_9.docx.xlf",
+    "target": "zh"
+}
